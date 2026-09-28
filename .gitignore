@@ -1,0 +1,16 @@
+# Backend (Java/Maven)
+backend/target/
+*.class
+
+# Frontend (Node/React)
+frontend/node_modules/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
